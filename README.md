@@ -1,0 +1,1 @@
+Built a machine learning model with 97% accuracy to predict real estate prices in Bangalore, India. The model was developed using NumPy, Scikit-Learn, and Pandas for data preprocessing, and GridSearchCV for hyperparameter tuning, then deployed into a Flask-based web application.
